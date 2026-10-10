@@ -1,5 +1,4 @@
 # Blue-Team-Jorney
-# Blue Team Journey
 
 A minha jornada de aprendizagem em cibersegurança, com foco em Blue Team, defesa de sistemas e análise de eventos de segurança.
 
