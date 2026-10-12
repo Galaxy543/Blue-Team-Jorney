@@ -3,13 +3,13 @@
 A minha jornada de aprendizagem em cibersegurança, com foco em Blue Team, defesa de sistemas e análise de eventos de segurança.
 
 ## Objetivos
--Aprender Linux e redes informáticas.
+<p>Aprender Linux e redes informáticas.</p>
 <li>Compreender logs e deteção de ameaças.</li>
 <li>Desenvolver competências de análise e resposta a incidentes.</li>
 <li>Aprender Python para automatizar tarefas defensivas.</li>
 
 ## Laboratórios
--Vou documentar exercícios, conceitos, resultados e conclusões à medida que evoluo.
+<p>Vou documentar exercícios, conceitos, resultados e conclusões à medida que evoluo.</p>
 
 ## Princípios
 <li>Prática em ambientes autorizados.</li>
